@@ -1,0 +1,38 @@
+1. Print all Prime numbers in an Interval
+2. Check whether a number is Prime or not
+ 
+ 
+3.) Parse a comma-separated string and convert it into a dictionary
+Input:"id:101,name:Sagar,dept:IT,salary:50000"
+Output:{'id': '101', 'name': 'Sagar', 'dept': 'IT', 'salary': '50000'}
+ 
+ 
+4.) Reverse the numbers of the list
+ 
+Input = [1,2,3,4,5,6]
+Output= [5,4,3,2,1]
+ 
+ 
+5.) Flatten a nested list
+Input:[[1, 2], [3, 4], [5]]
+Output: [1, 2, 3, 4, 5]
+Concept: Array manipulation.
+ 
+6.) Validate mobile numbers using simple rules
+Rule:
+* must be 10 digits
+* must start with 6/7/8/9
+Input:["9876543210", "12345", "6789000000"]
+Output: ["9876543210", "6789000000"]
+ 
+7.) Count how many times each word appears in a log line
+Input:
+ 
+"ERROR failed to connect ERROR timeout WARNING retry"
+ 
+ 
+ 
+// First try to familiarize with OOPS then attempt these questions
+8.) Create a class Person and define all its attributes like age, name, gender, weight etc, also create two functions getAge and getName which will return the age and name of the person respectively
+ 
+9.) Create a class and named “Shape“ and created 1 function calculatedArea and calculate the area of the given shape. There are multiple shapes like square, circle, cone, each shape has a different formula to calculate area.

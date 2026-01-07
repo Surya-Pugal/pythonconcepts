@@ -1,0 +1,14 @@
+Prime number:
+==============
+if the number divisible by own number and by 1 then that number is prime number.
+For example, given a number 29, it has no divisors other than 1 and 29 itself. Hence, it is a prime number.
+
+Note: Negative numbers (e.g. -13) are not considered prime number.
+
+slice
+=====
+slice(start, end, step)
+start	Optional. An integer number specifying at which position to start the slicing. Default is 0
+end	An integer number specifying at which position to end the slicing
+step	Optional. An integer number specifying the step of the slicing. Default is 1
+Using [:] or [::] without specifying start, end or step returns the complete string.
