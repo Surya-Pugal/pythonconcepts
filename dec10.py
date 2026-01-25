@@ -187,8 +187,8 @@ Input:
 # print(ob.age)
 # print(ob.getAge)    
 
-# __init__() method is used for initialize the variables/attributes of object. It is used to assign the value
-# it call once. It call once the object is created. 
+# __init__() method is used for initialize the variables/attributes of object. It is used to assign 
+# the value it call once. It call once the object is created. 
         
     
 # class statement or keyword should not be empty so if you want to define the function or method, attribute later the we use "pass"
